@@ -18,7 +18,7 @@ Linux • Networking • Bash Scripting • Digital Forensics • Cybersecurity
 <div align="center">
 
   <img
-    src="https://gifs.alphacoders.com/gifs/view/120251"
+    src="<video class="video_1q" crossorigin="anonymous" data-test-id="web-video-player" elementtiming="closeup-video-main-MainPinImage" playsinline="" poster="https://i.pinimg.com/736x/ea/f4/aa/eaf4aa0176a95b20d73672edcf7296c3.jpg" preload="auto" src="blob:https://in.pinterest.com/fa2dc42b-0c7e-4ded-91e6-e1171eae6837" style="object-fit: contain;"><track kind="captions" src="https://v1.pinimg.com/videos/captions/en-us/de/6d/cb/de6dcb03a3bcb9b09b9db775e23d712c.vtt"></video>"
     alt="Cyber Hacker Animation"
     width="600"
   />
