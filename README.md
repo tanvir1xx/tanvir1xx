@@ -2,7 +2,7 @@
 
 ### 🔐 Cybersecurity Student | CTF Player | Security Enthusiast
 
-📧 **Email:** [Contact Me]✉️(mailto:tanvirgrd220@@gmail.com)
+📧 **Email:** [Contact Me](✉️mailto:tanvirgrd220@@gmail.com)
 
 - 🔭 **Currently working on:** An AI chatbot that answers personal hygiene questions.
 - 🌱 **Currently learning:** SOC Operations, SIEM Tools, Digital Forensics, Nmap & Burp Suite.
