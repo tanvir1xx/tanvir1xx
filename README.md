@@ -14,10 +14,14 @@
 ### 💻 Tech & Interests
 Linux • Networking • Bash Scripting • Digital Forensics • Cybersecurity
 
-<!-- Snake Game Repo View -->
-
+<!-- Cyber Thief Chase Animation -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img
+    src="YOUR_ANIMATION_GIF_URL"
+    alt="Cyber Detective Chasing a Hacker"
+    width="600"
+  />
+  <h3>🕵️ Tracking Threats | 🔐 Catching Cybercriminals</h3>
 </div>
 
 ## 🌐 Socials:
