@@ -14,14 +14,21 @@
 ### 💻 Tech & Interests
 Linux • Networking • Bash Scripting • Digital Forensics • Cybersecurity
 
-<!-- Cyber Thief Chase Animation -->
+<!-- 🕵️ Cyber Threat Hunter Animation -->
 <div align="center">
+
   <img
-    src="YOUR_ANIMATION_GIF_URL"
-    alt="Cyber Detective Chasing a Hacker"
+    src="https://gifs.alphacoders.com/gifs/view/120251"
+    alt="Cyber Hacker Animation"
     width="600"
   />
-  <h3>🕵️ Tracking Threats | 🔐 Catching Cybercriminals</h3>
+
+  <h3>🚨 THREAT DETECTED | 🔍 HUNT IN PROGRESS</h3>
+
+  <p>
+    🕵️ Tracking Digital Footprints • 🔐 Securing Cyberspace
+  </p>
+
 </div>
 
 ## 🌐 Socials:
