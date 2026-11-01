@@ -14,22 +14,25 @@
 ### 💻 Tech & Interests
 Linux • Networking • Bash Scripting • Digital Forensics • Cybersecurity
 
-<!-- 🕵️ Cyber Threat Hunter Animation -->
+<hr>
+
 <div align="center">
 
+  <h2>🚨 CYBERSECURITY ALERT 🚨</h2>
+
   <img
-    src="<video class="video_1q" crossorigin="anonymous" data-test-id="web-video-player" elementtiming="closeup-video-main-MainPinImage" playsinline="" poster="https://i.pinimg.com/736x/ea/f4/aa/eaf4aa0176a95b20d73672edcf7296c3.jpg" preload="auto" src="blob:https://in.pinterest.com/fa2dc42b-0c7e-4ded-91e6-e1171eae6837" style="object-fit: contain;"><track kind="captions" src="https://v1.pinimg.com/videos/captions/en-us/de/6d/cb/de6dcb03a3bcb9b09b9db775e23d712c.vtt"></video>"
-    alt="Cyber Hacker Animation"
-    width="600"
+    src="./signal_breach.gif"
+    alt="Cybersecurity Warning Animation"
+    width="700"
   />
 
-  <h3>🚨 THREAT DETECTED | 🔍 HUNT IN PROGRESS</h3>
+  <h3>💀 THREAT DETECTED | HUNT IN PROGRESS 💀</h3>
 
-  <p>
-    🕵️ Tracking Digital Footprints • 🔐 Securing Cyberspace
-  </p>
+  <p>🔐 Hack Ethically. Stay Secure.</p>
 
 </div>
+
+<hr>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad Tanvir)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_urtanviirr)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirgrd220@gmail.com) 
